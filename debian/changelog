@@ -1,3 +1,9 @@
+eww-wayland (0.4.0-99pika2) lunar; urgency=medium
+
+  * Add trig pull PR
+
+ -- ferreo <harderthanfire@gmail.com>  Wed, 18 Jan 2023 21:48:14 +0000
+
 eww-wayland (0.4.0-99pika1) lunar; urgency=medium
 
   * Initial release.
